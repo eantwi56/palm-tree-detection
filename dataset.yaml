@@ -1,0 +1,6 @@
+names:
+- palm
+- tree
+nc: 2
+train: /home/coder/Desktop/DEEP_LEARNING/yolo_dataset/images/train
+val: /home/coder/Desktop/DEEP_LEARNING/yolo_dataset/images/test

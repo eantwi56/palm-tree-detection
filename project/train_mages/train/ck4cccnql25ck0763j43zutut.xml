@@ -1,0 +1,26 @@
+<annotation>
+    <folder>From_Labelbox-PSU-palms</folder>
+    <filename>ck4cccnql25ck0763j43zutut.jpeg</filename>
+    <path>/home/riotu/Object Detection/Datasets/Palm_counting/From_Labelbox-PSU-palms/ck4cccnql25ck0763j43zutut.jpeg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4096</width>
+        <height>2160</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Palm</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>195</xmin>
+                <ymin>404</ymin>
+                <xmax>540</xmax>
+                <ymax>713</ymax>
+            </bndbox>
+        </object>
+    </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+    <folder>Dataset-Palm-Counting2-Kharj</folder>
+    <filename>ck2oifiqlyemb0721dg7ou9t2.mpo</filename>
+    <path>/home/riotu/Object Detection/Datasets/Palm_counting/Dataset-Palm-Counting2-Kharj/ck2oifiqlyemb0721dg7ou9t2.mpo</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>4000</width>
+        <height>3000</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>Palm</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+                <xmin>3672</xmin>
+                <ymin>2713</ymin>
+                <xmax>4000</xmax>
+                <ymax>3000</ymax>
+            </bndbox>
+        </object>
+    </annotation>
