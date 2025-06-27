@@ -100,7 +100,7 @@ This will output the number of palm trees detected per image.
 
 ## Sample Output
 
-![Sample Output](runs/detect/predict/sample.jpg)
+![Sample Output](runs/detect/predict/ck2gi1goojxa10794p17jnhw7.jpg)
 
 ## Acknowledgements
 
